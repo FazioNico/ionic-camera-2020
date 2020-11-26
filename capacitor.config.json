@@ -1,0 +1,13 @@
+{
+  "appId": "ch.nicolasfazio.ioniccamera2020",
+  "appName": "IonicCamera2020",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "dist/IonicCamera2020",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {}
+}
